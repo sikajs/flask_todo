@@ -1,0 +1,7 @@
+.vscode/**/*
+__pycache__
+app.conf
+app.ini
+Dockerfile
+env/**/*
+*.db
